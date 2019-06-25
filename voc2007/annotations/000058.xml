@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000058.jpg</filename>
+	<path>C:\darkflow-master\voc2007\images\000058.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>321</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>21</ymin>
+			<xmax>205</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>
